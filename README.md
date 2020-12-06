@@ -25,6 +25,10 @@ feel free to provide feedback on resources_
 
 ## Video Resources
 
+### Ear Training
+
+- [Interval Songs List](https://www.earmaster.com/products/free-tools/interval-song-chart-generator.html)
+
 ### Music Theory
 
 - [8 Facts About the Circle of Fifths that you May Not Already Know](https://www.youtube.com/watch?v=50CpDZvTWks)
