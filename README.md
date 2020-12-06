@@ -11,8 +11,17 @@ feel free to provide feedback on resources_
 
 - [Reading](#reading)
 - [Tools](#tools)
+  - [Ear Training](#ear-training)
 - [Video Resources](#video-resources)
   - [Music Theory](#music-theory)
+
+## Reading
+
+## Tools
+
+### Ear Training
+
+- [Toned Ear: Ear Training](https://tonedear.com/ear-training)
 
 ## Video Resources
 
