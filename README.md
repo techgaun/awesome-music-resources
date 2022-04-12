@@ -12,6 +12,7 @@ feel free to provide feedback on resources_
 - [Reading](#reading)
 - [Tools](#tools)
   - [Ear Training](#ear-training)
+  - [Guitar](#guitar)
 - [Video Resources](#video-resources)
   - [Music Theory](#music-theory)
 
@@ -22,6 +23,10 @@ feel free to provide feedback on resources_
 ### Ear Training
 
 - [Toned Ear: Ear Training](https://tonedear.com/ear-training)
+
+### Guitar
+
+- [Fretgym](https://www.fretgym.com/)
 
 ## Video Resources
 
